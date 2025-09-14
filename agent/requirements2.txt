@@ -1,3 +1,0 @@
-livekit
-fastapi
-uvicorn
